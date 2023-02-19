@@ -1,0 +1,20 @@
+/**
+ * 
+ * @author 최지혁
+ *
+ */
+
+public class House {
+
+	public static void main(String[] args) {
+
+		일요일 연습
+		일요일 연습
+		
+		System.out.println();
+		System.out.println();
+		
+		
+	}
+
+}
